@@ -1,5 +1,4 @@
 # TFM
-Modelos supervisados para diagnosticar diabetes utilizando métodos ópticos no invasivos.
 
 
 ## 1.- TFM con data augmentation smote.ipynb
