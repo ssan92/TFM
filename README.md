@@ -9,4 +9,4 @@ Smote, Grid Search CV y Randomized Search CV.
 Grid Search CV y Randomized Search CV.
 
 ## DataSetProd.csv
-Conjunto de datos extradios por medio de métodos ópticos no invasivos.
+Dataset extradios por medio de métodos ópticos no invasivos.
